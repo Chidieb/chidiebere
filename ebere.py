@@ -51,7 +51,7 @@ c2 = "\033[0;97m"
 c3 = "\033[1;31m"
 #MyLogo
 def logo():
-    os.system('echo -e "\n\nHACKERn\n---------------------------------------\n\n Codded By : Chidi Khan            \n Facebook  : Chidiebere Khan        \n Whatsapp   : +2348109040651        \n Youtube   : Technical Chidi\n\n-----------------------------------------------" | lolcat')
+    os.system('echo -e "\n\n🅲🅷🅸🅳🅸 🅺🅷🅰🅽\n---------------------------------------\n\n Codded By : Chidi Khan            \n Facebook  : Chidiebere Khan        \n Whatsapp  : +2348109040651        \n Youtube   : Technical Chidi\n\n-----------------------------------------------" | lolcat')
 def method_menu():
     os.system("clear")
     logo()
